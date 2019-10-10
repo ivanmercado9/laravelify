@@ -3,7 +3,7 @@
 Laravel 5.8 + Vue 2 + Vuetify 2 Starter Template
 
 ### Installing
-* git clone https://github.com/avgkudey/LaraVuetify.git
+* git clone https://github.com/ivanmercado9/laravelify.git
 * cd LaraVuetify
 * composer install
 * npm install
