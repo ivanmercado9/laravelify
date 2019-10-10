@@ -20,4 +20,4 @@ Laravel 5.8 + Vue 2 + Vuetify 2 Starter Template
 
 ## Authors
 
-* **Kasun Udayanga** 
+* **Ivan Mercado** 
