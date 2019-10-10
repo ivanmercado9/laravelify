@@ -1,13 +1,15 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-import Home from '../components/Home.vue';
+import Home from '../views/Home.vue';
+import Polizas from '../views/Polizas.vue';
 
 Vue.use(VueRouter)
 
 
 let routes = [
-    {path: '/dash', component: Home},
+    {path: '/home', component: Home},
+    {path: '/polizas', component: Polizas},
     // {path: '*', component: NotFoundView}
 ];
 

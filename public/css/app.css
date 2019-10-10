@@ -10644,3 +10644,12 @@ a.text-dark:focus {
   }
 }
 
+a.v-list-item.v-list-item--link.theme--dark:hover {
+  text-decoration: none;
+}
+
+.v-application a:active {
+  color: #ffffff;
+  border-left: 4px solid white;
+}
+
